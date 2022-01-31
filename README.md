@@ -8,11 +8,15 @@ Includes a form to send a message to the client with emailJS.
 ---
 
 ### Screenshots
+
+![](https://i.imgur.com/XYXQ0HQ.png)
+![](https://i.imgur.com/3tSebzd.png)
+![](https://i.imgur.com/zqCwFfc.png)
+![](https://i.imgur.com/H5PfCw3.png)
+
+Email form:
+
 ![](https://i.imgur.com/JjUQGQy.png)
-![](https://ibb.co/5KvTXfV)
-![](https://ibb.co/pR1mQM4)
-![](https://ibb.co/s3xH0f4)
-![](https://ibb.co/QQrcHkq)
 
 
 Enjoy and feel free to use it!
