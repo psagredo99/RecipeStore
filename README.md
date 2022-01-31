@@ -9,17 +9,24 @@ Includes a form to send a message to the client with emailJS.
 
 ### Screenshots
 
+Recipe filtering by category:
+
 ![](https://i.imgur.com/XYXQ0HQ.png)
+
+Recipe page with description:
+
 ![](https://i.imgur.com/3tSebzd.png)
+
+Ingredient page with associated recipes:
+
 ![](https://i.imgur.com/zqCwFfc.png)
-![](https://i.imgur.com/H5PfCw3.png)
 
 Email form:
 
 ![](https://i.imgur.com/JjUQGQy.png)
 
 
-Enjoy and feel free to use it!
+Enjoy it and feel free to use it!
 ---
 
 
