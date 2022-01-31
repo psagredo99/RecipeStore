@@ -8,7 +8,7 @@ Includes a form to send a message to the client with emailJS.
 ---
 
 ### Screenshots
-![](https://i.ibb.co/QQrcHkq/imagen.png)
+![](https://i.imgur.com/JjUQGQy.png)
 ![](https://ibb.co/5KvTXfV)
 ![](https://ibb.co/pR1mQM4)
 ![](https://ibb.co/s3xH0f4)
