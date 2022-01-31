@@ -1,14 +1,21 @@
-# Recipe Search (Cooking Website Built With Django)
+# Recipe Store (Built with Django)
 
-An app that allows you to add recipes from the dashboard. Then visitors can search and filter based on different categories.
+An app that allows you to add recipes from the dashboard. Then visitors filter based on different categories also each ingredient 
+has a unique page with their related recipes.
+
+Includes a form to send a message to the client with emailJS.
 
 ---
 
 ### Screenshots
-![](https://i.ibb.co/vmzxDqT/screencapture-127-0-0-1-8000-guacamole-3-2020-12-19-21-47-00.png)
-![](https://i.ibb.co/yNttGBq/screencapture-127-0-0-1-8000-search-2020-12-19-21-46-38.png)
-![](https://i.ibb.co/4F3Vz6s/screencapture-127-0-0-1-8000-2020-12-19-21-46-12.png)
+![](https://ibb.co/Cw3cYZh)
+![](https://ibb.co/5KvTXfV)
+![](https://ibb.co/pR1mQM4)
+![](https://ibb.co/s3xH0f4)
+![](https://ibb.co/QQrcHkq)
 
+
+Enjoy and feel free to use it!
 ---
 
-[Tutorial On Youtube](https://youtu.be/nPusaqAbiGE)
+
